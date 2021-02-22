@@ -23,6 +23,8 @@ The application includes a README.md with instructions on running the applicatio
 
 Draw a diagram showing the dataflow through the application starting with a form submission, ending with the re-rendering of the page. This will involve a multi-direction data-flow with the client posting data to the server and the server sending data back to the client with the response. Detail the client, server and database in the diagram and include the names of the files involved in the process.
 
+![MVP + extension diagram](images/wk8d1hw.png)
+
 ### Questions
 
 1. What is responsible for defining the routes of the `games` resource?
